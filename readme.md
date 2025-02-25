@@ -1,6 +1,6 @@
 # Acode plugin
 
-Read acode plugin [documentation](https://acode.foxdebug.com/plugin-docs) to develop plugin for acode editor.
+Read acode plugin [documentation](https://acode.app/plugin-docs) to develop plugin for acode editor.
 
 ## Usage
 
