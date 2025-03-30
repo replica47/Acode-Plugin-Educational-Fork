@@ -1,5 +1,5 @@
 # Acode Plugin Template (forked)
-**Note:** *I own no rights to the source code forked. This is a fork meant for my own educational purposes. I am trying to learn how to build a working plugin for Acode text editor.*
+**Note:** *I own no rights to the source code forked. This is a fork meant for my own educational purposes. I am learning how to build a working plugin for the Acode text editor.*
 
 ----
 
