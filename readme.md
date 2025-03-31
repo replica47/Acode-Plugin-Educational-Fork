@@ -11,8 +11,6 @@
 This part of the readme file is from the original author.
 ````
 
-----
-
 # Acode plugin
 
 Read acode plugin [documentation](https://acode.app/plugin-docs) to develop plugin for acode editor.
